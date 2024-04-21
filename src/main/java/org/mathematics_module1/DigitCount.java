@@ -20,3 +20,5 @@ public class DigitCount {
         System.out.println("Number of integer is : "+d1.digitCount(number));
     }
 }
+
+//Output : Number of integer is : 6
