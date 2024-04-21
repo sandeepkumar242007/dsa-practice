@@ -20,3 +20,6 @@ public class NumberReverseOrder {
         obj.revNumber(number);
     }
 }
+
+//Input : Original Number is : 1234
+//Output : 4321
